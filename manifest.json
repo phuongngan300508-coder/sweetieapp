@@ -1,0 +1,20 @@
+{
+  "name": "Sweetie Game App",
+  "short_name": "Sweetie App",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#fff0f5",
+  "theme_color": "#ff85a2",
+  "icons": [
+    {
+      "src": "https://i.postimg.cc/NfWH3fs5/Gemini-Generated-Image-kry8mckry8mckry8.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://i.postimg.cc/NfWH3fs5/Gemini-Generated-Image-kry8mckry8mckry8.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
